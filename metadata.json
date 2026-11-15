@@ -1,0 +1,6 @@
+{
+  "name": "Entre Dos",
+  "description": "Juego íntimo para pareja: niveles Suave y Rudo, 300 preguntas sin repetir, más de 300 juegos sexuales, verdad o reto y 64 posiciones animadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
